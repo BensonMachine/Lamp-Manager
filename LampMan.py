@@ -33,7 +33,7 @@ class Handler:
 
 
 builder = Gtk.Builder()
-builder.add_from_file("text.glade")
+builder.add_from_file("GUI.glade")
 builder.connect_signals(Handler())
 
 entry = builder.get_object('LeText')    
