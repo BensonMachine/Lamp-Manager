@@ -15,59 +15,59 @@
         <child>
           <object class="GtkButton">
             <property name="label" translatable="yes">Start</property>
-            <property name="width_request">94</property>
-            <property name="height_request">60</property>
+            <property name="width_request">100</property>
+            <property name="height_request">50</property>
             <property name="visible">True</property>
             <property name="can_focus">True</property>
             <property name="receives_default">True</property>
             <signal name="clicked" handler="ApacheStartClick" swapped="no"/>
           </object>
           <packing>
-            <property name="x">48</property>
-            <property name="y">87</property>
+            <property name="x">50</property>
+            <property name="y">90</property>
           </packing>
         </child>
         <child>
           <object class="GtkLabel">
-            <property name="width_request">100</property>
-            <property name="height_request">80</property>
+            <property name="width_request">86</property>
+            <property name="height_request">37</property>
             <property name="visible">True</property>
             <property name="can_focus">False</property>
             <property name="label" translatable="yes">Apache</property>
           </object>
           <packing>
-            <property name="x">40</property>
-            <property name="y">9</property>
+            <property name="x">41</property>
+            <property name="y">49</property>
           </packing>
         </child>
         <child>
           <object class="GtkButton">
             <property name="label" translatable="yes">Stop</property>
             <property name="width_request">100</property>
-            <property name="height_request">60</property>
+            <property name="height_request">50</property>
             <property name="visible">True</property>
             <property name="can_focus">True</property>
             <property name="receives_default">True</property>
             <signal name="clicked" handler="ApacheStopClick" swapped="no"/>
           </object>
           <packing>
-            <property name="x">156</property>
-            <property name="y">89</property>
+            <property name="x">155</property>
+            <property name="y">90</property>
           </packing>
         </child>
         <child>
           <object class="GtkButton">
             <property name="label" translatable="yes">Restart</property>
             <property name="width_request">100</property>
-            <property name="height_request">61</property>
+            <property name="height_request">50</property>
             <property name="visible">True</property>
             <property name="can_focus">True</property>
             <property name="receives_default">True</property>
             <signal name="clicked" handler="ApacheRestartClick" swapped="no"/>
           </object>
           <packing>
-            <property name="x">276</property>
-            <property name="y">88</property>
+            <property name="x">260</property>
+            <property name="y">90</property>
           </packing>
         </child>
         <child>
@@ -79,52 +79,52 @@
             <property name="can_focus">True</property>
           </object>
           <packing>
-            <property name="x">392</property>
-            <property name="y">329</property>
+            <property name="x">400</property>
+            <property name="y">325</property>
           </packing>
         </child>
         <child>
           <object class="GtkButton">
             <property name="label" translatable="yes">Start</property>
-            <property name="width_request">85</property>
-            <property name="height_request">56</property>
+            <property name="width_request">100</property>
+            <property name="height_request">50</property>
             <property name="visible">True</property>
             <property name="can_focus">True</property>
             <property name="receives_default">True</property>
           </object>
           <packing>
-            <property name="x">49</property>
-            <property name="y">241</property>
+            <property name="x">50</property>
+            <property name="y">240</property>
           </packing>
         </child>
         <child>
           <object class="GtkButton">
             <property name="label" translatable="yes">Stop</property>
             <property name="width_request">100</property>
-            <property name="height_request">54</property>
+            <property name="height_request">50</property>
             <property name="visible">True</property>
             <property name="can_focus">True</property>
             <property name="receives_default">True</property>
             <signal name="clicked" handler="MySQLStopClick" swapped="no"/>
           </object>
           <packing>
-            <property name="x">153</property>
-            <property name="y">241</property>
+            <property name="x">155</property>
+            <property name="y">240</property>
           </packing>
         </child>
         <child>
           <object class="GtkButton">
             <property name="label" translatable="yes">Restart</property>
             <property name="width_request">100</property>
-            <property name="height_request">56</property>
+            <property name="height_request">50</property>
             <property name="visible">True</property>
             <property name="can_focus">True</property>
             <property name="receives_default">True</property>
             <signal name="clicked" handler="MySQLRestartClick" swapped="no"/>
           </object>
           <packing>
-            <property name="x">275</property>
-            <property name="y">239</property>
+            <property name="x">260</property>
+            <property name="y">240</property>
           </packing>
         </child>
         <child>
@@ -136,8 +136,8 @@
             <property name="label" translatable="yes">MySQL</property>
           </object>
           <packing>
-            <property name="x">47</property>
-            <property name="y">191</property>
+            <property name="x">42</property>
+            <property name="y">187</property>
           </packing>
         </child>
       </object>
