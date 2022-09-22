@@ -1,10 +1,16 @@
-LampMane
-This is an alternative to the XAMPP Launcher for Ubuntu and other linux distro
+   
+# LampMane
 
-People that don't like commandline will like this because it's a gui machine
+***An alternative to the "XAMPP Launcher" for the Ubuntu OS and other Linux distros.***  
 
-Apache : 
-Start Stop Restart
+##
 
-MySQL : 
-Start Stop Restart 
+Users who do not like the "Command Line" will prefere **LampMane** because it is a GUI machine! 
+
+**Apache :**  
+`Start` **|** `Stop` **|** `Restart`  
+
+**MySQL :**  
+`Start` **|** `Stop` **|** `Restart`  
+
+##
